@@ -6,4 +6,3 @@ What?
 How?
  - download and install processing
  - open and run in the processing editor
- - be amazed and throw up glitter
